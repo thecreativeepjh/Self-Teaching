@@ -6,8 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Hi</h1>
-    <p>hello</p>
-    
+    <h1>Self-Teaching</h1>
+    <p>def</p>
+    <h2>Notable Self Taught People</h2>
 </body>
 </html>
