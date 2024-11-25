@@ -9,5 +9,10 @@
     <h1>Self-Teaching</h1>
     <p>def</p>
     <h2>Notable Self Taught People</h2>
+    <ul>
+        <li>a</li>
+        <li>h</li>
+        <li>a</li>
+    </ul>
 </body>
 </html>
