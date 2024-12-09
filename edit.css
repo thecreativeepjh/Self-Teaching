@@ -1,3 +1,7 @@
 body {
   background-image: linear-gradient( rgba(0,255,0,0), rgba(0,155,0,1));
 }
+
+#tb {
+  background-image: linear-gradient( rgba(0,0,255,0), rgba(0,0,155,1));
+}
