@@ -3,5 +3,5 @@ body {
 }
 
 #tb {
-  background-image: url('https://t3.ftcdn.net/jpg/06/19/22/22/240_F_619222261_aoyaSiJQVyJoohNVH2RALfwSJtLlG3So.jpg');
+  background-image: conic-gradient(red, yellow, green);
 }
