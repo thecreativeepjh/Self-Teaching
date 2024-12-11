@@ -4,5 +4,6 @@ body {
 
 #tb {
   background-image: conic-gradient(green, yellow, green);
-  border-radius: 3px;
+  border-style: hidden;
+  border-radius: 10px;
 }
