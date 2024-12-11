@@ -34,7 +34,10 @@
         <h2 align="center">How To Teach Yourself</h2>
         <p align="center">bla</p>
         <h3 align="center">Videos</h3>
-        <p align="center">This is usualy the simplest way to start</p>
+        <ul>
+            <li align="center">This is usualy the simplest way to start, but it is very important you do it corectly, finding good sorces.</li>
+            <li align="center">There are different video types that you can use to educate yourself, ranging from films to 50-60 second video clips</li>
+        <ul>
     </div>
 </body>
 </html>
