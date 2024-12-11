@@ -17,6 +17,7 @@
             <li>Bill Gates</li>
         </ul>
     </div>
+    <p> </p>
     <div id='tb'>
         <h2 align="center">Should You Be Self Taught</h2>
         <p align="center">This is a very important question to ask before you starting. In this section we will layout some of the reasons to teach yourself, and a few important things to consider.</p>
@@ -28,6 +29,7 @@
             <li>Improved problem solving skils: When you have to learn things for youself, you have to find solutions, and answers to your own questions. This is basiclly textbook problem solving skils</li>
         </ul>
     </div>
+    <p> </p>
     <div id='tb'>
         <h2 align="center">How To Teach Yourself</h2>
         <p align="center">bla</p>
