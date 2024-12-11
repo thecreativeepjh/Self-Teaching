@@ -7,3 +7,9 @@ body {
   border-style: hidden;
   border-radius: 10px;
 }
+
+#subtb {
+  background-image: conic-gradient(blue, white, blue);
+  border-style: hidden;
+  border-radius: 10px;
+}
