@@ -33,11 +33,17 @@
     <div id='tb'>
         <h2 align="center">How To Teach Yourself</h2>
         <p align="center">bla</p>
-        <h3 align="center">Videos</h3>
-        <ul>
-            <li align="center">This is usualy the simplest way to start, but it is very important you do it corectly, finding good sorces.</li>
-            <li align="center">There are different video types that you can use to educate yourself, ranging from films to 50-60 second video clips</li>
-        <ul>
+        <div id="subtb">
+            <h3 align="center">Videos</h3>
+            <p align="center">This is usualy the simplest way to start, but it is very important you do it corectly, finding good sorces.</p>
+            <h4 align="center">Videos</h4>
+            <p>There are many eduction people, who are worth you time to listen to, some include:</p>
+            <ol>
+                <li><a href="https://www.w3.org/">W3C</a>: This is vey useful if you would like to start learning anything coding based, which is one of the most common things to teach yourself.</li>
+                <li><a href="https://ed.ted.com">Ted Ed</a></li>
+                <li><a href="https://www.youtube.com/@MarkRober/videos>MarkRober's Youtube</a>: This one of my personal favourites. He teaches high school science topics, while making them interestig to all ages.</li>
+            </ol>
+        </div>
     </div>
 </body>
 </html>
