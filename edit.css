@@ -6,10 +6,12 @@ body {
   background-image: conic-gradient(green, yellow, green);
   border-style: hidden;
   border-radius: 10px;
+  padding: 10px 10px;
 }
 
 #subtb {
   background-image: conic-gradient(blue, white, blue);
   border-style: hidden;
   border-radius: 10px;
+  padding: 10px 10px;
 }
