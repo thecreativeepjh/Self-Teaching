@@ -44,7 +44,7 @@
             </ol>
         </div>
         <p></p>
-        <div id="subtb">
+        <div id="subtb" align="center">
             <h3>Online Courses</h3>
             <p>There is a variety of options for online courses to lear almost anything you want. Online courses are usually for learning more advanced skills, like a new language rather than smaller topics with videos. Some good options are listed below.</p>
             <ol>
