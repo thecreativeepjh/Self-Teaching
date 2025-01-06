@@ -32,7 +32,7 @@
     <p> </p>
     <div id='tb'>
         <h2 align="center">How To Teach Yourself</h2>
-        <p align="center">bla</p>
+        <p align="center">If I have convinced you that you should take up your eductation, you should learn how to do so properly. Below are 2 stategies:</p>
         <div id="subtb">
             <h3 align="center">Videos</h3>
             <p align="center">This is usualy the simplest way to start, but it is very important you do it corectly, finding good sorces.</p>
@@ -47,11 +47,15 @@
         <div id="subtb" align="center">
             <h3>Online Courses</h3>
             <p>There is a variety of options for online courses to lear almost anything you want. Online courses are usually for learning more advanced skills, like a new language rather than smaller topics with videos. Some good options are listed below.</p>
-            <ol>
+            <ol align="left">
                 <li><a href="https://www.khanacademy.org">Khan Academy</a></li>
                 <li><a href="https://www.duolingo.com">Duolingo</a></li>
             </ol>
         </div>
+    </div>
+    <div id='bib'>
+        <h2>Bibliography</h2>
+        <p>https://creately.com/blog/education/self-learning-techniques-tools/</p>
     </div>
 </body>
 </html>
