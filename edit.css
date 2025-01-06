@@ -15,3 +15,10 @@ body {
   border-radius: 10px;
   padding: 10px 10px;
 }
+
+#bib {
+  background-image: conic-gradient(yellow, white, yellow);
+  border-style: hidden;
+  border-radius: 10px;
+  padding: 10px 10px;
+}
