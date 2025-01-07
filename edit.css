@@ -1,5 +1,5 @@
 body {
-  background-image: background-image: linear-gradient(yellow, red);
+  background-image: linear-gradient(yellow, red);
 }
 
 #tb {
@@ -10,7 +10,7 @@ body {
 }
 
 #subtb {
-  background-image: conic-gradient(green, white, green);
+  background-image: conic-gradient(red, orange, red);
   border-style: hidden;
   border-radius: 10px;
   padding: 10px 10px;
