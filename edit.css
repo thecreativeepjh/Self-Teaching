@@ -1,17 +1,17 @@
 body {
-  background-image: linear-gradient(yellow, red);
+  background-image: linear-gradient(white, aqua);
 }
 
 #tb {
-  background-image: conic-gradient(red, yellow, red);
-  border-style: hidden;
+  
+  border-style: outset;
   border-radius: 10px;
   padding: 10px 10px;
 }
 
 #subtb {
-  background-image: conic-gradient(red, orange, red);
-  border-style: hidden;
+  
+  border-style: outset;
   border-radius: 10px;
   padding: 10px 10px;
 }
