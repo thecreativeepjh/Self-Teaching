@@ -17,3 +17,10 @@ body {
   width: 100%;
   background-color:#ffff0080;
 }
+#navbar {
+  position: sticky;
+  top: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
