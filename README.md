@@ -7,14 +7,12 @@
 </head>
 <body>
     <div class="header">
-        <h2>Scroll Down</h2>
-        <p>Scroll down to see the sticky effect.</p>
+        <h1 align="center" >Self-Teaching</h1>
+        <p>Self-teaching can be difined as "The practice of education or learning something without the guidance of a teacher"</p>
     </div>
     <div id="navbar">
-        <p>cool</p>
+        <h2 align="center">Self-Teaching</h2>
     </div>
-    <h1 allign="center" >Self-Teaching</h1>
-    <p>Self-teaching can be difined as "The practice of education or learning something without the guidance of a teacher"</p>
     <div id='tb'>
         <h2 allign="center">Notable Self Taught People</h2>
         <p >We have all heard of people who "Self-taught", but did you know these famous people were?</p>
@@ -44,9 +42,12 @@
             <li>Improved problem solving skils: When you have to learn things for youself, you have to find solutions, and answers to your own questions. This is basiclly textbook problem solving skils</li>
         </ul>
         <p>Now that we have gone over some important benifits, we should list some of the possible downsides or challeges, and ways to solve them.</p>
-        <h3>Motivation or Discipline</h3>
-        <p>When learning with a ridged platform, you find yourself not motivated to learning, often leaving things half finished.</p>
+        <h3>Challenges</h3>
+        <p><b>Motivation or Discipline</b>When learning with a ridged platform, you find yourself not motivated to learning, often leaving things half finished.</p>
         <p><b>Solution:</b> The best solution to this problem is either joining a program with a streak system like duolingo, or having friends join you.</p>
+        <p></p>
+        <P><b>Disinformation:</b> If you are not carefull you may find wrong infromation online.</P>
+        <p><b>Solution:</b> Use reputible sources, and read the 'How To Teach Yourself' section later on.</p>
     </div>
     <p> </p>
     <div id='tb'>
