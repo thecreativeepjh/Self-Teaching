@@ -78,6 +78,7 @@
         <h2 allign="center">Bibliography</h2>
         <p>https://creately.com/blog/education/self-learning-techniques-tools/</p>
         <p>https://www.linkedin.com/pulse/5-unique-things-you-should-know-self-taught-developers-programmers-/</p>
+        <p>https://en.wikipedia.org/wiki/Autodidacticism</p>
     </div>
 </body>
 </html>
