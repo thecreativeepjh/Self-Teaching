@@ -1,16 +1,16 @@
 body {
-  background-image: linear-gradient( rgba(0,255,0,0), rgba(0,155,0,1));
+  background-image: background-image: linear-gradient(yellow, red);
 }
 
 #tb {
-  background-image: conic-gradient(green, yellow, green);
+  background-image: conic-gradient(red, yellow, red);
   border-style: hidden;
   border-radius: 10px;
   padding: 10px 10px;
 }
 
 #subtb {
-  background-image: conic-gradient(blue, white, blue);
+  background-image: conic-gradient(green, white, green);
   border-style: hidden;
   border-radius: 10px;
   padding: 10px 10px;
