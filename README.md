@@ -8,13 +8,13 @@
 <body>
     <div class="header">
         <h1 align="center" >Self-Teaching</h1>
-        <p>Self-teaching can be difined as "The practice of education or learning something without the guidance of a teacher"</p>
+        <p>Self-teaching can be defined as "The practice of education or learning something without the guidance of a teacher"</p>
     </div>
     <div id="navbar">
         <h2 align="center">Self-Teaching</h2>
     </div>
     <div id='tb'>
-        <h2 allign="center">Notable Self Taught People</h2>
+        <h2 align="center">Notable Self Taught People</h2>
         <p >We have all heard of people who "Self-taught", but did you know these famous people were?</p>
         <ul >
             <li>Abraham Lincoln</li>
@@ -24,17 +24,17 @@
     </div>
     <p> </p>
     <div >
-        <h2 allign="center">Fun Facts</h2>
+        <h2 align="center">Fun Facts</h2>
         <ul>
             <li>27.4% of software developers claim to be self-taught. Coding is one of the most popular things to learn by yourself. Even the guy making this was self taught in programing.</li>
             <li></li>
         </ul>
     </div>
-    <p></p>
+    <p> </p>
     <div id='tb'>
-        <h2 allign="center">Should You Be Self Taught</h2>
+        <h2 align="center">Should You Be Self Taught</h2>
         <p >This is a very important question to ask before you starting. In this section we will layout some of the reasons to teach yourself, and a few important things to consider.</p>
-        <p></p>
+        <p> </p>
         <h3 >Benifits</h3>
         <ul >
             <li>Learning at a comfortable pace: This is one of the most ovious, but also important benifits. For example, if you are a fast learner, you can go faster, and learn more without other people slowing you down. </li>
@@ -43,15 +43,18 @@
         </ul>
         <p>Now that we have gone over some important benifits, we should list some of the possible downsides or challeges, and ways to solve them.</p>
         <h3>Challenges</h3>
-        <p><b>Motivation or Discipline</b>When learning with a ridged platform, you find yourself not motivated to learning, often leaving things half finished.</p>
+        <p><b>Motivation or Discipline:</b> When learning with a ridged platform, you find yourself not motivated to learning, often leaving things half finished.</p>
         <p><b>Solution:</b> The best solution to this problem is either joining a program with a streak system like duolingo, or having friends join you.</p>
-        <p></p>
+        <p> </p>
+        <p> </p>
         <P><b>Disinformation:</b> If you are not carefull you may find wrong infromation online.</P>
         <p><b>Solution:</b> Use reputible sources, and read the 'How To Teach Yourself' section later on.</p>
+        <h3>Conclusion</h3>
+        <p>In conclusion, it is your choice, but there is no strong reason not to.</p>
     </div>
     <p> </p>
     <div id='tb'>
-        <h2 allign="center">How To Teach Yourself</h2>
+        <h2 align="center">How To Teach Yourself</h2>
         <p >If I have convinced you that you should take up your eductation, you should learn how to do so properly. Below are 2 stategies:</p>
         <div id="subtb">
             <h3 >Videos</h3>
@@ -74,11 +77,12 @@
         </div>
     </div>
     <p> </p>
+    <h4>Website by Ezra</h4>
     <div id='bib'>
-        <h2 allign="center">Bibliography</h2>
-        <p>https://creately.com/blog/education/self-learning-techniques-tools/</p>
-        <p>https://www.linkedin.com/pulse/5-unique-things-you-should-know-self-taught-developers-programmers-/</p>
-        <p>https://en.wikipedia.org/wiki/Autodidacticism</p>
+        <h2 align="center">Bibliography</h2>
+        <p>Athuraliya, A. (2024, September 12). The Easy Guide to self-learning: Steps, resources, tools and more. Creately Blog. https://creately.com/blog/education/self-learning-techniques-tools/ </p>
+        <p>Remote Hire. (2023, February 14). 5 unique things you should know about self-taught developers and programmers. LinkedIn. https://www.linkedin.com/pulse/5-unique-things-you-should-know-self-taught-developers-programmers-/ </p>
+        <p>Wikimedia Foundation. (2024, December 31). Autodidacticism. Wikipedia. https://en.wikipedia.org/wiki/Autodidacticism </p>
     </div>
 </body>
 </html>
