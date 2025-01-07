@@ -16,11 +16,13 @@ body {
 #bib {
   width: 100%;
   background-color:#ffff0080;
+  padding: 10px;
 }
 #navbar {
   position: sticky;
   top: 0;
   overflow: hidden;
   background-color: #333;
+  text-color: White;
 }
 
