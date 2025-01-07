@@ -21,7 +21,7 @@
     <div >
         <h3>Fun Facts</h3>
         <ul>
-            <li>27.4% of software developers claim to be self-taught. Coding is one of the most popular things to learn by yourself. Even the Guy making this was self taught in programing.</li>
+            <li>27.4% of software developers claim to be self-taught. Coding is one of the most popular things to learn by yourself. Even the guy making this was self taught in programing.</li>
             <li></li>
         </ul>
     </div>
@@ -36,6 +36,10 @@
             <li>Flexibility: One that is worth mentioning, is that you are not trapped into constricting coriculum. You can learn what you want, when you want.</li>
             <li>Improved problem solving skils: When you have to learn things for youself, you have to find solutions, and answers to your own questions. This is basiclly textbook problem solving skils</li>
         </ul>
+        <p>Now that we have gone over some important benifits, we should list some of the possible downsides or challeges, and ways to solve them.</p>
+        <h3>Motivation or Discipline</h3>
+        <p>When learning with a ridged platform, you find yourself not motivated to learning, often leaving things half finished.</p>
+        <p><b>Solution:</b> The best solution to this problem is either joining a program with a streak system like duolingo, or having friends join you.</p>
     </div>
     <p> </p>
     <div id='tb'>
