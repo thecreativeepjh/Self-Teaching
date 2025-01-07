@@ -1,5 +1,5 @@
 body {
-  
+  background-image: linear-gradient(rgba(0,0,255,0), rgba(,0,255,0.5));
 }
 
 #tb {
@@ -23,6 +23,6 @@ body {
   top: 0;
   overflow: hidden;
   background-color: #333;
-  text-color: White;
+  color: White;
 }
 
