@@ -6,6 +6,13 @@
     <title>Document</title>
 </head>
 <body>
+    <div class="header">
+        <h2>Scroll Down</h2>
+        <p>Scroll down to see the sticky effect.</p>
+    </div>
+    <div id="navbar">
+        <p>cool</p>
+    </div>
     <h1 allign="center" >Self-Teaching</h1>
     <p>Self-teaching can be difined as "The practice of education or learning something without the guidance of a teacher"</p>
     <div id='tb'>
