@@ -24,10 +24,9 @@
     </div>
     <p> </p>
     <div >
-        <h2 align="center">Fun Facts</h2>
+        <h2 align="center">Fun Fact</h2>
         <ul>
             <li>27.4% of software developers claim to be self-taught. Coding is one of the most popular things to learn by yourself. Even the guy making this was self taught in programing.</li>
-            <li></li>
         </ul>
     </div>
     <p> </p>
