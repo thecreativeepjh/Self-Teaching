@@ -18,6 +18,14 @@
         </ul>
     </div>
     <p> </p>
+    <div id='tb' align='center'>
+        <h3>Fun Facts</h3>
+        <ul>
+            <li>27.4% of software developers claim to be self-taught. Coding is one of the most popular things to learn by yourself. Even the Guy making this was self taught in programing.</li>
+            <li></li>
+        </ul>
+    </div>
+    <p></p>
     <div id='tb'>
         <h2 align="center">Should You Be Self Taught</h2>
         <p align="center">This is a very important question to ask before you starting. In this section we will layout some of the reasons to teach yourself, and a few important things to consider.</p>
@@ -43,7 +51,7 @@
                 <li><a href="https://www.youtube.com/@MarkRober/videos">MarkRober's Youtube</a>: This one of my personal favourites. He teaches high school science topics, while making them interestig to all ages.</li>
             </ol>
         </div>
-        <p></p>
+        <p> </p>
         <div id="subtb" align="center">
             <h3>Online Courses</h3>
             <p>There is a variety of options for online courses to lear almost anything you want. Online courses are usually for learning more advanced skills, like a new language rather than smaller topics with videos. Some good options are listed below.</p>
@@ -53,9 +61,11 @@
             </ol>
         </div>
     </div>
+    <p> </p>
     <div id='bib'>
         <h2>Bibliography</h2>
         <p>https://creately.com/blog/education/self-learning-techniques-tools/</p>
+        <p>https://www.linkedin.com/pulse/5-unique-things-you-should-know-self-taught-developers-programmers-/</p>
     </div>
 </body>
 </html>
