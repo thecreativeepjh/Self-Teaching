@@ -1,24 +1,18 @@
 body {
-  background-image: linear-gradient(white, aqua);
+  
 }
 
 #tb {
   
-  border-style: outset;
-  border-radius: 10px;
-  padding: 10px 10px;
+  
+  
 }
 
 #subtb {
   
-  border-style: outset;
-  border-radius: 10px;
-  padding: 10px 10px;
+ 
 }
 
 #bib {
-  background-image: conic-gradient(yellow, white, yellow);
-  border-style: hidden;
-  border-radius: 10px;
-  padding: 10px 10px;
+  background-color:#ffff0080;
 }
