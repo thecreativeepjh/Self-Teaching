@@ -71,7 +71,6 @@
             <p >This is usualy the simplest way to start, but it is very important you do it corectly, finding good sorces.</p>
             <p >There are many eduction people, who are worth you time to listen to, some include:</p>
             <ol>
-                <li><a href="https://www.w3schools.com">W3Schools</a>: This is vey useful if you would like to start learning anything coding based, which is one of the most common things to teach yourself.</li>
                 <li><a href="https://ed.ted.com">Ted Ed</a></li>
                 <li><a href="https://www.youtube.com/@MarkRober/videos">MarkRober's Youtube</a>: This one of my personal favourites. He teaches high school science topics, while making them interestig to all ages.</li>
             </ol>
@@ -82,9 +81,24 @@
             <p>There is a variety of options for online courses to lear almost anything you want. Online courses are usually for learning more advanced skills, like a new language rather than smaller topics with videos. Some good options are listed below.</p>
             <ol >
                 <li><a href="https://www.khanacademy.org">Khan Academy</a>: You can learn almost anything with self paced courses, and it's free.</li>
+                <li><a href="https://www.w3schools.com">W3Schools</a>: This is vey useful if you would like to start learning anything coding based, which is one of the most common things to teach yourself.</li>
                 <li><a href="https://www.duolingo.com">Duolingo</a>: This is very good for teaching languages.</li>
             </ol>
         </div>
+        <div id="subtb">
+            <h3>Tips</h3>
+            <p>When teaching yourself things, there are a few things that are good to know.</p>
+            <ol>
+                <li>Corect Info: It is important to get real infromation, so only use credible sorces</li>
+                <li>Motivation: Sometimes you need more motivation, a good way to do this is use a habit tracker</li>
+                <li>Consistency: It is important to be cosistant or, if you miss a day, that could be a week, then you just give up.</li>
+                <li>Time Stamps: A good thing to do is to date things, and maybe journal, so you can remember what you have learned.</li>
+            </ol>
+        </div>
+    </div>
+    <div id="tb">
+        <h2>Conclusion</h2>
+        <p>There is no great way to end this, I have given information and I hope you use it. Good luck on your journey.</p>
     </div>
     <p> </p>
     <h4>Website by Ezra</h4>
