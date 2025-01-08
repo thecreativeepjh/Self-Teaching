@@ -74,8 +74,8 @@
             <h3>Online Courses</h3>
             <p>There is a variety of options for online courses to lear almost anything you want. Online courses are usually for learning more advanced skills, like a new language rather than smaller topics with videos. Some good options are listed below.</p>
             <ol >
-                <li><a href="https://www.khanacademy.org">Khan Academy</a></li>
-                <li><a href="https://www.duolingo.com">Duolingo</a></li>
+                <li><a href="https://www.khanacademy.org">Khan Academy</a>: You can learn almost anything with self paced courses, and it's free.</li>
+                <li><a href="https://www.duolingo.com">Duolingo</a>: This is very good for teaching languages.</li>
             </ol>
         </div>
     </div>
