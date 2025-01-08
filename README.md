@@ -97,7 +97,7 @@
         </div>
     </div>
     <div id="tb">
-        <h2>Conclusion</h2>
+        <h2 align="center">Conclusion</h2>
         <p>There is no great way to end this, I have given information and I hope you use it. Good luck on your journey.</p>
     </div>
     <p> </p>
