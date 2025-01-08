@@ -30,6 +30,9 @@ body {
   background-color: black;
   color: white;
 }
+body.dark-mode navbar {
+  background-color: black;
+}
 
 #button {
   margin: 0;
