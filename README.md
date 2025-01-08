@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="edit.css">
 </head>
 <body>
-    <div id="header">
+    <div id="header" >
         <h1 align="center">Self-Teaching</h1>
         <button onclick="myFunction()" id="button">Dark Mode</button>
         <script>
