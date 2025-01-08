@@ -87,5 +87,12 @@
         <p>Remote Hire. (2023, February 14). 5 unique things you should know about self-taught developers and programmers. LinkedIn. https://www.linkedin.com/pulse/5-unique-things-you-should-know-self-taught-developers-programmers-/ </p>
         <p>Wikimedia Foundation. (2024, December 31). Autodidacticism. Wikipedia. https://en.wikipedia.org/wiki/Autodidacticism </p>
     </div>
+    <button onclick="myFunction()">Toggle dark mode</button>
+    <script>
+        function myFunction() {
+        var element = document.body;
+        element.classList.toggle("dark-mode");
+    }
+    </script>
 </body>
 </html>
