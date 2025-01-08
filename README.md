@@ -7,7 +7,6 @@
 <body>
     <div id="header">
         <h1 align="center">Self-Teaching</h1>
-        <p>cool</p>
         <button onclick="myFunction()" id="button">Dark Mode</button>
         <script>
             function myFunction() {
