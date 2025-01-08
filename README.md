@@ -5,8 +5,8 @@
     <link rel="stylesheet" href="edit.css">
 </head>
 <body>
-    <div class="header">
-        <h1 align="center" >Self-Teaching</h1>
+    <div id="header">
+        <h1 align="center">Self-Teaching</h1>
     </div>
     <p>Self-teaching can be defined as "The practice of education or learning something without the guidance of a teacher"</p>
     <div id='tb'>
