@@ -1,6 +1,6 @@
 body {
   background-color: white;
-  color:blue;
+  color:black;
 }
 
 #tb {
@@ -30,7 +30,7 @@ body {
   background-color: black;
   color: white;
 }
-body.dark-mode navbar {
+body.dark-mode #navbar {
   background-color: black;
   color: white
 }
