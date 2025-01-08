@@ -22,8 +22,10 @@ body {
   position: sticky;
   top: 0;
   overflow: hidden;
-  background-color: White;
-  
 }
 
+.dark-mode {
+  background-color: black;
+  color: white;
+}
 
