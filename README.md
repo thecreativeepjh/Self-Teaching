@@ -10,9 +10,6 @@
         <h1 align="center" >Self-Teaching</h1>
         <p>Self-teaching can be defined as "The practice of education or learning something without the guidance of a teacher"</p>
     </div>
-    <div id="navbar">
-        <h2 align="center">Self-Teaching</h2>
-    </div>
     <div id='tb'>
         <div id="navbar">
             <h2 align="center">Notable Self Taught People</h2>
