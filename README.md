@@ -6,7 +6,6 @@
 </head>
 <body>
     <div id="header"  >
-        <h1 align="center">Self-Teaching</h1>
         <button onclick="myFunction()" id="button">Dark Mode</button>
         <script>
             function myFunction() {
@@ -14,6 +13,7 @@
             element.classList.toggle("dark-mode");
         }
         </script>
+        <h1 align="center">Self-Teaching</h1>
     </div>
     <p>Self-teaching can be defined as "The practice of education or learning something without the guidance of a teacher"</p>
     <div id='tb'>
