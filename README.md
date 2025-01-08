@@ -14,7 +14,9 @@
         <h2 align="center">Self-Teaching</h2>
     </div>
     <div id='tb'>
-        <h2 align="center">Notable Self Taught People</h2>
+        <div id="navbar">
+            <h2 align="center">Notable Self Taught People</h2>
+        </div>
         <p >We have all heard of people who "Self-taught", but did you know these famous people were?</p>
         <ul >
             <li>Abraham Lincoln</li>
@@ -24,14 +26,18 @@
     </div>
     <p> </p>
     <div >
-        <h2 align="center">Fun Fact</h2>
+        <div id="navbar">
+            <h2 align="center">Fun Fact</h2>
+        </div>
         <ul>
             <li>27.4% of software developers claim to be self-taught. Coding is one of the most popular things to learn by yourself. Even the guy making this was self taught in programing.</li>
         </ul>
     </div>
     <p> </p>
     <div id='tb'>
-        <h2 align="center">Should You Be Self Taught</h2>
+        <div id="navbar">
+            <h2 align="center">Should You Be Self Taught</h2>
+        </div>
         <p >This is a very important question to ask before you starting. In this section we will layout some of the reasons to teach yourself, and a few important things to consider.</p>
         <p> </p>
         <h3 >Benifits</h3>
@@ -53,7 +59,9 @@
     </div>
     <p> </p>
     <div id='tb'>
-        <h2 align="center">How To Teach Yourself</h2>
+        <div id="navbar">
+            <h2 align="center">How To Teach Yourself</h2>
+        </div>
         <p >If I have convinced you that you should take up your eductation, you should learn how to do so properly. Below are 2 stategies:</p>
         <div id="subtb">
             <h3 >Videos</h3>
