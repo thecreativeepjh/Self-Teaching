@@ -48,7 +48,7 @@
             <li>Learning at a comfortable pace: This is one of the most ovious, but also important benifits. For example, if you are a fast learner, you can go faster, and learn more without other people slowing you down. </li>
             <li>Flexibility: One that is worth mentioning, is that you are not trapped into constricting coriculum. You can learn what you want, when you want.</li>
             <li>Improved problem solving skils: When you have to learn things for youself, you have to find solutions, and answers to your own questions. This is basiclly textbook problem solving skils</li>
-            <li>Imporved Wellness: Teaching yourself can improve your <b>intellectual wellness</b> by giving you challeges, and it can also improve your <b>mental wellness</b> by reducing stress at school.</li>
+            <li>Imporved Wellness: Teaching yourself can improve your <b>intellectual wellness</b> by giving you challeges, and it can also improve your <b>mental wellness</b> by reducing stress at school when you learn ahead.</li>
         </ul>
         <p>Now that we have gone over some important benifits, we should list some of the possible downsides or challeges, and ways to solve them.</p>
         <h3>Challenges</h3>
