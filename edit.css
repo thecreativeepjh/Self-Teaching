@@ -1,6 +1,6 @@
 body {
   background-color: white;
-  color:green;
+  color:black;
 }
 
 #tb {
@@ -36,7 +36,6 @@ body.dark-mode #navbar {
 }
 
 #button {
-  position:absolute;
   top:0;
   right:0;
 }
